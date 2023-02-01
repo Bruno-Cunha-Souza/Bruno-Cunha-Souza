@@ -1,6 +1,11 @@
+## Olá Mundo / Hello word 
 
+Muito prazer, me chamo Bruno Souza e sou um desenvolvedor de sistemas do Brasil.
+Nice to meet you, my name is Bruno Souza and I am a systems developer from Brazil.
 
 ##
+
+- 🌱 Currently i'm learning front-end tecnologies ...
 
 ### Statistics
 <div style="marginbottom:2rem">
