@@ -9,11 +9,11 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bruno-cunha-souza&layout=compact&langs_count=7&theme=dark"/>
 </div>
   
-<div style="display: inline_block">
-   <img align="center" alt="Icon-VueJs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg" />
-   <img align="center" alt="Icon-DJango" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" />
-   <img align="center" alt="Icon-Angular" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" />
-   <img align="center" alt="Icon-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
+<div style="display: inline_block, margin-top:1rem">
+   <img align="center" alt="Icon-VueJs" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg" />
+   <img align="center" alt="Icon-DJango" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" />
+   <img align="center" alt="Icon-Angular" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" />
+   <img align="center" alt="Icon-React" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />
 </div>  
   
 ##
