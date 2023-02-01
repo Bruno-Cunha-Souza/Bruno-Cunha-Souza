@@ -3,7 +3,11 @@
 <p>Muito prazer, me chamo Bruno Souza e sou um desenvolvedor de sistemas do Brasil.</p>
 <p>Nice to meet you, my name is Bruno Souza and I am a systems developer from Brazil.</p>
 
-- 🌱 Currently i'm learning front-end tecnologies ...
+
+- 🌱 Atualmente estou estudando tecnologias front-end.
+- 🌱 Currently i'm learning front-end tecnologies.
+
+##
 
 ### Statistics
 <div style="marginbottom:2rem">
