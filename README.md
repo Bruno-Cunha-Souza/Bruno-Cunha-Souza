@@ -11,10 +11,10 @@
  
  <div>
   <ul>
-    <i><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg" /></i>
-    <i><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" /></i> 
-    <i><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" /></i>
-    <i><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" /></i> 
+    <i><img style="height:50px, width:50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg" /></i>
+    <i><img style="height:50px, width:50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" /></i> 
+    <i><img style="height:50px, width:50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" /></i>
+    <i><img style="height:50px, width:50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" /></i> 
   </ul>
 </div> 
   
