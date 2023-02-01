@@ -1,10 +1,23 @@
+
+
 ##
+
 ### Statistics
 <div>
   <a href="https://github.com/bruno-cunha-souza">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bruno-cunha-souza&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/> 
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bruno-cunha-souza&layout=compact&langs_count=7&theme=dark"/>
 </div>
+ 
+ <div>
+  <ul>
+    <i><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg" /></i>
+    <i><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" /></i> 
+    <i><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" /></i>
+    <i><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" /></i> 
+  </ul>
+</div> 
+  
   
 ##
   
