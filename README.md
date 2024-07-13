@@ -6,9 +6,9 @@
 ##
 
 ### Statistics
-<div style="marginbottom:2rem">
+<div style="marginbottom:1.5rem">
   <a href="https://github.com/bruno-cunha-souza">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bruno-cunha-souza&layout=compact&langs_count=7&theme=dark"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bruno-cunha-souza&layout=compact&langs_count=7&theme=dark"/>
 </div>
   
   
