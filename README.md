@@ -3,10 +3,6 @@
 <p>Muito prazer, me chamo Bruno Souza e sou um desenvolvedor de sistemas do Brasil.</p>
 <p>Nice to meet you, my name is Bruno Souza and I am a systems developer from Brazil.</p>
 
-
-- 🌱 Atualmente estou estudando tecnologias front-end.
-- 🌱 Currently i'm learning front-end tecnologies.
-
 ##
 
 ### Statistics
@@ -18,10 +14,10 @@
   
   
 <div style="display: inline_block, margin-top:5rem"><br>
-   <img align="center" alt="Icon-VueJs" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />
-   <img align="center" alt="Icon-DJango" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" />
-   <img align="center" alt="Icon-Angular" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" />
    <img align="center" alt="Icon-React" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+   <img align="center" alt="Icon-DJango" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" />
+   <img align="center" alt="Icon-VueJs" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />
+   <img align="center" alt="Icon-Angular" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" />
 </div>  
   
 ##
