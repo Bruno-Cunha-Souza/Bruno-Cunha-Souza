@@ -13,6 +13,8 @@
   
   
 <div style="display: inline_block, margin-top:5rem"><br>
+   <img align="center" alt="Icon-Python" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+   <img align="center" alt="Icon-Golang" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" />
    <img align="center" alt="Icon-React" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
    <img align="center" alt="Icon-DJango" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" />
    <img align="center" alt="Icon-VueJs" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />
